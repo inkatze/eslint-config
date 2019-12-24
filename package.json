@@ -12,7 +12,7 @@
     "typescript"
   ],
   "main": "index.js",
-  "repository": "git@github.com:nihldev/typescript-config.git",
+  "repository": "git@github.com:inkatze/eslint-config.git",
   "author": "Diego Romero <jd@inkatze.com>",
   "license": "BSD-3-Clause",
   "publishConfig": {
