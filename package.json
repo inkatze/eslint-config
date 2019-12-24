@@ -15,6 +15,9 @@
   "repository": "git@github.com:nihldev/typescript-config.git",
   "author": "Diego Romero <jd@inkatze.com>",
   "license": "BSD-3-Clause",
+  "publishConfig": {
+    "access": "public"
+  },
   "peerDependencies": {
     "@types/css": "latest",
     "@types/react": "latest",
