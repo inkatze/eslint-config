@@ -1,6 +1,6 @@
 {
   "name": "@inkatze/eslint-config",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "ESLint, prettier and Typescript config",
   "keywords": [
     "javascript",
@@ -19,10 +19,6 @@
     "access": "public"
   },
   "peerDependencies": {
-    "@types/css": "latest",
-    "@types/react": "latest",
-    "@types/react-dom": "latest",
-    "@typescript-eslint/parser": "latest",
     "eslint": "latest",
     "eslint-config-prettier": "latest",
     "eslint-config-standard": "latest",
@@ -38,10 +34,6 @@
     "prettier": "latest"
   },
   "devDependencies": {
-    "@types/css": "latest",
-    "@types/react": "latest",
-    "@types/react-dom": "latest",
-    "@typescript-eslint/parser": "latest",
     "eslint": "latest",
     "eslint-config-prettier": "latest",
     "eslint-config-standard": "latest",
